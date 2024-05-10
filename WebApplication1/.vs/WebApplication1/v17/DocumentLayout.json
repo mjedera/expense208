@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|d:\\desktop\\don\u0027t open this\\208 final\\webapplication1\\webapplication1\\datewise.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\datewise.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\signin.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\signin.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\datewise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\datewise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\dashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\dashboard.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\addexpenses.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\addexpenses.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\webapplication1\\setbudget.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2294F320-AD22-4D61-9550-EF109D541FAA}|WebApplication1\\WebApplication1.vbproj|solutionrelative:webapplication1\\setbudget.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx.vb",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\Dashboard.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication1\\Dashboard.aspx.vb",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\Dashboard.aspx.vb",
+              "RelativeToolTip": "WebApplication1\\Dashboard.aspx.vb",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T16:27:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Dashboard.aspx",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\Dashboard.aspx",
+              "RelativeToolTip": "WebApplication1\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-09T16:27:18.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datewise.aspx.vb",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\datewise.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication1\\datewise.aspx.vb",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\datewise.aspx.vb",
+              "RelativeToolTip": "WebApplication1\\datewise.aspx.vb",
+              "ViewState": "AQIAACMAAAAAAAAAAAA1wCYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T13:53:32.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "datewise.aspx",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\datewise.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\datewise.aspx",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\datewise.aspx",
+              "RelativeToolTip": "WebApplication1\\datewise.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-09T13:52:14.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "signin.aspx.vb",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\signin.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication1\\signin.aspx.vb",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\signin.aspx.vb",
+              "RelativeToolTip": "WebApplication1\\signin.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wA8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T12:34:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetBudget.aspx",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\SetBudget.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\SetBudget.aspx",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\SetBudget.aspx",
+              "RelativeToolTip": "WebApplication1\\SetBudget.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-09T12:32:26.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addexpenses.aspx.vb",
+              "DocumentMoniker": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\addexpenses.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication1\\addexpenses.aspx.vb",
+              "ToolTip": "D:\\Desktop\\DON\u0027T OPEN THIS\\208 Final\\WebApplication1\\WebApplication1\\addexpenses.aspx.vb",
+              "RelativeToolTip": "WebApplication1\\addexpenses.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T12:18:13.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
